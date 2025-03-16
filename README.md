@@ -1,4 +1,5 @@
 # Codecademy CS104 Portfolio Project - CPU Simulator
+Part of the [Codecademy Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science)
 ## Software Requirements
 ### Software product Requirements
 - Write the program in Python 3

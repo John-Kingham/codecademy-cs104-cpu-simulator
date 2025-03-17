@@ -1,9 +1,11 @@
 # Codecademy CS104 Portfolio Project - CPU Simulator
-Part of the [Codecademy Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science)
+Part of the [Codecademy Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science). 
+
+**Goal**: Research, design, and build a Python program that simulates the basic functionalities of a CPU, cache and memory bus.
 ## Software Requirements
 ### Software Product Requirements
 #### Functional Requirements
-- Write a program that mimics the basic functionalities of a CPU, cache, and memory bus
+The program should:
 - Fetch and parse instructions from an input file
 - Fetch and parse initialization values for the Memory Bus from a separate input file
 - Send CPU instructions and initial Memory Bus values to the CPU and Memory Bus, respectively
@@ -11,7 +13,8 @@ Part of the [Codecademy Computer Science Career Path](https://www.codecademy.com
 - Implement an instruction set architecture that can handle the following MIPS Instructions: ADD, ADDI, SUB, SLT, BNE, J, JAL, LW, SW, CACHE, HALT
 #### Nonfunctional Requirements
 ##### Technology Constraints
-- Write the program in Python 3
+The program should:
+- Be written in Python 3
 - Use object oriented programming
 ##### Service Quality Constraints
 - None

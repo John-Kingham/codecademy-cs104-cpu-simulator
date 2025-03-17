@@ -1,12 +1,11 @@
 # Codecademy CS104 Portfolio Project - CPU Simulator
 Part of the [Codecademy Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science). 
 
-In this project, I will research, design, and build a Python program that simulates the functionalities of a CPU, cache and memory bus.
+**Goal**: Research, design, and build a Python program that simulates the basic functionalities of a CPU, cache and memory bus.
 ## Software Requirements
 ### Software Product Requirements
 #### Functional Requirements
 The program should:
-- Simulate the basic functionalities of a CPU, cache, and memory bus
 - Fetch and parse instructions from an input file
 - Fetch and parse initialization values for the Memory Bus from a separate input file
 - Send CPU instructions and initial Memory Bus values to the CPU and Memory Bus, respectively
